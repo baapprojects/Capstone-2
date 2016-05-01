@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/offer_header_height"
+        android:id="@+id/img_backdrop"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="centerCrop"/>
+    <com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="@dimen/margins_10"
+        android:id="@+id/txt_merchant_title"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_26"/>
+</RelativeLayout>

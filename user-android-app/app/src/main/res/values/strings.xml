@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">YabiUserAndroid</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- Font Constants -->
+    <string name="path_assets_fonts">fonts/</string>
+    <string name="font_roboto_light">Roboto-Light.ttf</string>
+    <string name="font_roboto_bold">Roboto-Bold.ttf</string>
+    <string name="font_roboto_regular">Roboto-Regular.ttf</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+
+    <!-- Sign In Fragment -->
+    <string name="string_name">Name</string>
+    <string name="string_email">Email</string>
+    <string name="string_phone_no">Phone Number</string>
+    <string name="string_age">Age</string>
+    <string name="string_next">Next</string>
+    <string name="string_gender">Gender : </string>
+    <string name="string_male">Male</string>
+    <string name="string_female">Female</string>
+    <string name="string_verify">Verify</string>
+    <string name="string_otp">Please Enter OTP</string>
+    <string name="string_resend_otp">Resend OTP</string>
+    <string name="string_otp_sent">OTP Sent</string>
+
+    <!-- Drawer Items -->
+    <string name="drawer_home">Home</string>
+    <string name="drawer_profile">Profile</string>
+    <string name="drawer_saved_deals">Saved Deals</string>
+    <string name="drawer_refer">Refer and Earn</string>
+    <string name="drawer_rate">Rate us</string>
+    <string name="drawer_feedback">Feedback</string>
+    <string name="drawer_faq">FAQ</string>
+    <string name="title_activity_refer">Refer</string>
+
+    <!-- Refer and Earn -->
+    <string name="string_share_invite">SHARE YOUR INVITE CODE</string>
+    <string name="string_share_message">Invite a friend to Yabi and you both will earn 100 points</string>
+    <string name="string_invite">Invite Friends</string>
+    <string name="title_activity_faq">FAQ</string>
+
+    <!-- FAQ -->
+    <string name="string_faq">This is a sample faq. For more details see www.yabi.in</string>
+
+    <!-- Content Desciptions -->
+    <string name="content_filter_result">Filter results</string>
+    <string name="content_google_sign">Press this to sign in with your Google Account</string>
+    <string name="content_gender">Your Gender</string>
+    <string name="content_joining">your Joining date</string>
+
+    <!-- Home Screen -->
+    <string name="string_online_deals">Online Deals</string>
+    <string name="string_offline_deals">Offline Deals</string>
+    <string name="string_no_merchants">Sorry there are no merchants currently</string>
+    <string name="string_save_coupon">Save</string>
+    <string name="string_remove_coupon">Remove</string>
+    <string name="text_no_favourites">Sorry, there are no favourites saved.</string>
+    <string name="title_activity_favourites">FavouritesActivity</string>
+
+    <string name="widget_title">Yabi Offers</string>
+</resources>

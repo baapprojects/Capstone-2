@@ -1,0 +1,6 @@
+<com.yabi.yabiuserandroid.ui.uiutils.palette.CustomFontTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:customfont="http://schemas.android.com/apk/res-auto"
+    android:textColor="@color/color_primary_text"
+    android:textSize="@dimen/text_16" />

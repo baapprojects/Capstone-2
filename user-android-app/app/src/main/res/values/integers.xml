@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="fragment_splash_timer_value">5000</integer>
+    <integer name="default_animation_value">700</integer>
+    <integer name="integer_1">1</integer>
+    <integer name="http_connection_timeout">60</integer>
+</resources>
